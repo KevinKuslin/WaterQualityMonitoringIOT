@@ -1,0 +1,14 @@
+{
+  "features": [
+    "Temp",
+    "pH`",
+    "Turbidity (cm)"
+  ],
+  "model_type": "RandomForestClassifier",
+  "sklearn_version": "1.6.1",
+  "classes": {
+    "0": "Excellent",
+    "1": "Good",
+    "2": "Poor"
+  }
+}
